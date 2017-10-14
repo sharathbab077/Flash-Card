@@ -1,0 +1,10 @@
+
+@media (max-width:768px) {
+    tr td {
+        padding: 20px 40px;
+  border: 1px solid black;
+  display: block;
+    }
+}
+
+ 
